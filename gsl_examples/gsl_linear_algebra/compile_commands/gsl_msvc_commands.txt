@@ -1,0 +1,3 @@
+cl /EHsc /I C:\GSL\include test.c ^
+/link /LIBPATH:C:\GSL\lib
+test
